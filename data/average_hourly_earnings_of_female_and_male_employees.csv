@@ -1,0 +1,917 @@
+,country_id,country,gender_code,gender,year,amount_local_currency
+0,051,Armenia,F,Female,2013,541.28
+1,051,Armenia,F,Female,2014,569.36
+2,051,Armenia,F,Female,2015,684.03
+3,051,Armenia,F,Female,2016,835.54
+4,051,Armenia,F,Female,2017,930.49
+5,051,Armenia,F,Female,2018,771.98
+6,051,Armenia,F,Female,2019,1138.21
+7,051,Armenia,F,Female,2020,1182.09
+8,056,Belgium,F,Female,2010,31.49
+9,056,Belgium,F,Female,2014,34.45
+10,056,Belgium,F,Female,2015,33.72
+11,056,Belgium,F,Female,2016,33.72
+12,056,Belgium,F,Female,2017,34.46
+13,056,Belgium,F,Female,2018,35.36
+14,276,Germany,F,Female,2010,27.64
+15,276,Germany,F,Female,2014,33.84
+16,276,Germany,F,Female,2018,37.27
+17,100,Bulgaria,F,Female,2010,4.41
+18,100,Bulgaria,F,Female,2014,10.05
+19,100,Bulgaria,F,Female,2018,13
+20,380,Italy,F,Female,2010,29.64
+21,380,Italy,F,Female,2014,29.44
+22,380,Italy,F,Female,2018,31
+23,498,Republic of Moldova,F,Female,2009,22.97
+24,498,Republic of Moldova,F,Female,2010,27.32
+25,498,Republic of Moldova,F,Female,2011,28.88
+26,498,Republic of Moldova,F,Female,2012,30.4
+27,498,Republic of Moldova,F,Female,2013,31.74
+28,498,Republic of Moldova,F,Female,2014,34.6
+29,498,Republic of Moldova,F,Female,2015,21.35
+30,498,Republic of Moldova,F,Female,2016,23.86
+31,498,Republic of Moldova,F,Female,2017,23.59
+32,498,Republic of Moldova,F,Female,2018,26.54
+33,498,Republic of Moldova,F,Female,2019,34.28
+34,498,Republic of Moldova,F,Female,2020,41.27
+35,498,Republic of Moldova,F,Female,2021,41.58
+36,208,Denmark,F,Female,2010,35.32
+37,208,Denmark,F,Female,2014,293.3
+38,208,Denmark,F,Female,2018,321
+39,826,United Kingdom,F,Female,2014,21.27
+40,826,United Kingdom,F,Female,2015,20.54
+41,826,United Kingdom,F,Female,2016,21.23
+42,826,United Kingdom,F,Female,2017,22.22
+43,826,United Kingdom,F,Female,2018,23.03
+44,826,United Kingdom,F,Female,2019,23.2
+45,703,Slovakia,F,Female,2010,8.44
+46,703,Slovakia,F,Female,2014,8.77
+47,703,Slovakia,F,Female,2015,10.45
+48,703,Slovakia,F,Female,2019,12.48
+49,703,Slovakia,F,Female,2020,13.44
+50,703,Slovakia,F,Female,2021,13.74
+51,840,United States,F,Female,2009,32.22
+52,840,United States,F,Female,2010,34.22
+53,840,United States,F,Female,2011,31.77
+54,840,United States,F,Female,2012,32.25
+55,840,United States,F,Female,2013,32.48
+56,840,United States,F,Female,2014,34.27
+57,840,United States,F,Female,2015,35.26
+58,840,United States,F,Female,2016,34.37
+59,840,United States,F,Female,2017,37.39
+60,840,United States,F,Female,2018,36.79
+61,840,United States,F,Female,2019,38.44
+62,840,United States,F,Female,2020,42.72
+63,840,United States,F,Female,2021,41.15
+64,840,United States,F,Female,2022,46.87
+65,376,Israel,F,Female,2014,74
+66,376,Israel,F,Female,2015,79.2
+67,376,Israel,F,Female,2016,73
+68,376,Israel,F,Female,2018,87.1
+69,688,Serbia,F,Female,2014,304.27
+70,688,Serbia,F,Female,2015,308.63
+71,688,Serbia,F,Female,2016,324.53
+72,688,Serbia,F,Female,2017,346.75
+73,688,Serbia,F,Female,2018,347.93
+74,688,Serbia,F,Female,2019,394.51
+75,688,Serbia,F,Female,2020,458.05
+76,688,Serbia,F,Female,2021,490.06
+77,352,Iceland,F,Female,2014,4420
+78,352,Iceland,F,Female,2015,4850
+79,352,Iceland,F,Female,2016,5210
+80,352,Iceland,F,Female,2017,5640
+81,352,Iceland,F,Female,2021,6800
+82,070,Bosnia and Herzegovina,F,Female,2011,5.87
+83,070,Bosnia and Herzegovina,F,Female,2012,7.07
+84,070,Bosnia and Herzegovina,F,Female,2013,6.58
+85,070,Bosnia and Herzegovina,F,Female,2014,7.33
+86,070,Bosnia and Herzegovina,F,Female,2015,7.58
+87,070,Bosnia and Herzegovina,F,Female,2016,6.94
+88,070,Bosnia and Herzegovina,F,Female,2020,10.44
+89,070,Bosnia and Herzegovina,F,Female,2021,9.39
+90,191,Croatia,F,Female,2018,75
+91,442,Luxembourg,F,Female,2010,39.08
+92,442,Luxembourg,F,Female,2014,38.59
+93,442,Luxembourg,F,Female,2018,41
+94,233,Estonia,F,Female,2010,7.99
+95,233,Estonia,F,Female,2014,8.82
+96,233,Estonia,F,Female,2018,11
+97,724,Spain,F,Female,2010,19.91
+98,724,Spain,F,Female,2012,28
+99,724,Spain,F,Female,2013,27
+100,724,Spain,F,Female,2014,27
+101,724,Spain,F,Female,2015,27
+102,724,Spain,F,Female,2016,26
+103,724,Spain,F,Female,2017,26
+104,724,Spain,F,Female,2018,28
+105,724,Spain,F,Female,2019,30
+106,724,Spain,F,Female,2020,31
+107,752,Sweden,F,Female,2010,25.33
+108,752,Sweden,F,Female,2014,282.36
+109,752,Sweden,F,Female,2015,279.7
+110,752,Sweden,F,Female,2016,289.5
+111,752,Sweden,F,Female,2017,299.4
+112,752,Sweden,F,Female,2018,309.3
+113,752,Sweden,F,Female,2019,315.7
+114,752,Sweden,F,Female,2020,323.8
+115,428,Latvia,F,Female,2010,5.85
+116,428,Latvia,F,Female,2014,7.19
+117,428,Latvia,F,Female,2018,10
+118,040,Austria,F,Female,2010,25.1
+119,040,Austria,F,Female,2014,26.95
+120,040,Austria,F,Female,2018,28.78
+121,112,Belarus,F,Female,2019,7.24
+122,008,Albania,F,Female,2012,3570.57
+123,008,Albania,F,Female,2018,581
+124,792,Türkiye,F,Female,2012,15.07
+125,792,Türkiye,F,Female,2013,16.59
+126,792,Türkiye,F,Female,2014,18.54
+127,792,Türkiye,F,Female,2015,21.23
+128,792,Türkiye,F,Female,2016,22.76
+129,792,Türkiye,F,Female,2017,24.2
+130,792,Türkiye,F,Female,2018,26.45
+131,792,Türkiye,F,Female,2019,34.93
+132,792,Türkiye,F,Female,2020,43.3
+133,792,Türkiye,F,Female,2021,46.51
+134,470,Malta,F,Female,2010,11.85
+135,470,Malta,F,Female,2014,15.02
+136,470,Malta,F,Female,2018,17
+137,643,Russian Federation,F,Female,2015,285
+138,643,Russian Federation,F,Female,2017,344
+139,860,Uzbekistan,F,Female,2021,19616
+140,578,Norway,F,Female,2010,35.63
+141,578,Norway,F,Female,2014,334.57
+142,578,Norway,F,Female,2018,372
+143,804,Ukraine,F,Female,2012,25.24
+144,804,Ukraine,F,Female,2016,43.17
+145,807,North Macedonia,F,Female,2014,302.12
+146,616,Poland,F,Female,2010,8.42
+147,616,Poland,F,Female,2014,38.02
+148,348,Hungary,F,Female,2010,7.76
+149,348,Hungary,F,Female,2014,2356.15
+150,348,Hungary,F,Female,2018,2950
+151,348,Hungary,F,Female,2019,3460.56
+152,348,Hungary,F,Female,2020,3963
+153,348,Hungary,F,Female,2021,4483
+154,246,Finland,F,Female,2010,29.99
+155,246,Finland,F,Female,2013,32.67
+156,246,Finland,F,Female,2014,32.69
+157,246,Finland,F,Female,2016,33.74
+158,246,Finland,F,Female,2017,34.54
+159,246,Finland,F,Female,2020,35.34
+160,246,Finland,F,Female,2021,38.86
+161,440,Lithuania,F,Female,2010,5.19
+162,440,Lithuania,F,Female,2014,6.23
+163,440,Lithuania,F,Female,2018,7.84
+164,300,Greece,F,Female,2010,15.77
+165,300,Greece,F,Female,2014,16.28
+166,300,Greece,F,Female,2015,7.58
+167,300,Greece,F,Female,2016,8.68
+168,300,Greece,F,Female,2017,9.5
+169,300,Greece,F,Female,2018,8.58
+170,300,Greece,F,Female,2019,7.99
+171,300,Greece,F,Female,2020,9.55
+172,196,Cyprus,F,Female,2010,29.62
+173,196,Cyprus,F,Female,2014,23.33
+174,196,Cyprus,F,Female,2018,29
+175,372,Ireland,F,Female,2010,24.9
+176,372,Ireland,F,Female,2014,28.48
+177,372,Ireland,F,Female,2018,28
+178,499,Montenegro,F,Female,2014,8.3
+179,705,Slovenia,F,Female,2010,18.62
+180,705,Slovenia,F,Female,2014,17.8
+181,705,Slovenia,F,Female,2018,18
+182,203,Czechia,F,Female,2012,260.94
+183,203,Czechia,F,Female,2013,265.27
+184,203,Czechia,F,Female,2014,272.85
+185,203,Czechia,F,Female,2015,279.54
+186,203,Czechia,F,Female,2016,282.6
+187,203,Czechia,F,Female,2017,302.4
+188,203,Czechia,F,Female,2018,320.1
+189,203,Czechia,F,Female,2019,360.9
+190,203,Czechia,F,Female,2020,387.9
+191,642,Romania,F,Female,2010,6.82
+192,642,Romania,F,Female,2014,28.75
+193,620,Portugal,F,Female,2009,7.92
+194,620,Portugal,F,Female,2010,9.04
+195,620,Portugal,F,Female,2011,7.19
+196,620,Portugal,F,Female,2012,6.62
+197,620,Portugal,F,Female,2013,6.72
+198,620,Portugal,F,Female,2014,16.02
+199,620,Portugal,F,Female,2015,7.47
+200,620,Portugal,F,Female,2016,6.83
+201,620,Portugal,F,Female,2017,6.11
+202,620,Portugal,F,Female,2018,7.62
+203,756,Switzerland,F,Female,2009,50.84
+204,756,Switzerland,F,Female,2010,44.87
+205,756,Switzerland,F,Female,2011,44.93
+206,756,Switzerland,F,Female,2012,51.37
+207,756,Switzerland,F,Female,2013,50.25
+208,756,Switzerland,F,Female,2014,46.02
+209,756,Switzerland,F,Female,2015,48.7
+210,756,Switzerland,F,Female,2016,50.95
+211,756,Switzerland,F,Female,2017,50.04
+212,756,Switzerland,F,Female,2018,50.72
+213,756,Switzerland,F,Female,2019,50.67
+214,756,Switzerland,F,Female,2020,58.07
+215,756,Switzerland,F,Female,2021,67.21
+216,528,Netherlands,F,Female,2010,23.1
+217,528,Netherlands,F,Female,2014,25.42
+218,756,Switzerland,M,Male,2013,62.66
+219,756,Switzerland,M,Male,2014,64.19
+220,756,Switzerland,M,Male,2015,81.77
+221,756,Switzerland,M,Male,2016,58.81
+222,756,Switzerland,M,Male,2017,65.93
+223,756,Switzerland,M,Male,2018,67.63
+224,756,Switzerland,M,Male,2019,65.26
+225,756,Switzerland,M,Male,2020,71.83
+226,756,Switzerland,M,Male,2021,79.99
+227,528,Netherlands,M,Male,2010,31
+228,528,Netherlands,M,Male,2014,33.48
+229,528,Netherlands,M,Male,2018,36
+230,250,France,M,Male,2011,19
+231,250,France,M,Male,2012,19.89
+232,250,France,M,Male,2013,21.84
+233,250,France,M,Male,2014,22.02
+234,250,France,M,Male,2015,21.36
+235,250,France,M,Male,2016,21.34
+236,250,France,M,Male,2017,22.5
+237,250,France,M,Male,2018,22.52
+238,250,France,M,Male,2019,23.24
+239,250,France,M,Male,2020,23.99
+240,348,Hungary,T,Total,2010,9.73
+241,348,Hungary,T,Total,2014,3059.92
+242,348,Hungary,T,Total,2018,3518
+243,348,Hungary,T,Total,2019,4104
+244,348,Hungary,T,Total,2020,4711
+245,348,Hungary,T,Total,2021,5337
+246,246,Finland,T,Total,2010,36.37
+247,246,Finland,T,Total,2013,37.22
+248,246,Finland,T,Total,2014,37.4
+249,246,Finland,T,Total,2016,38.32
+250,246,Finland,T,Total,2017,39.1
+251,246,Finland,T,Total,2020,40.39
+252,246,Finland,T,Total,2021,46.06
+253,440,Lithuania,T,Total,2010,5.94
+254,440,Lithuania,T,Total,2014,7.08
+255,440,Lithuania,T,Total,2018,8.35
+256,070,Bosnia and Herzegovina,T,Total,2011,6.85
+257,070,Bosnia and Herzegovina,T,Total,2012,6.84
+258,070,Bosnia and Herzegovina,T,Total,2013,7.5
+259,070,Bosnia and Herzegovina,T,Total,2014,7.32
+260,070,Bosnia and Herzegovina,T,Total,2015,8.41
+261,070,Bosnia and Herzegovina,T,Total,2016,7.51
+262,070,Bosnia and Herzegovina,T,Total,2020,10.89
+263,705,Slovenia,T,Total,2010,20.51
+264,705,Slovenia,T,Total,2014,19.38
+265,705,Slovenia,T,Total,2018,20
+266,112,Belarus,T,Total,2019,8.46
+267,008,Albania,T,Total,2012,4564.08
+268,008,Albania,T,Total,2018,568
+269,792,Türkiye,T,Total,2012,13.77
+270,792,Türkiye,T,Total,2013,15.88
+271,792,Türkiye,T,Total,2014,17.82
+272,792,Türkiye,T,Total,2015,19.49
+273,792,Türkiye,T,Total,2016,21.29
+274,792,Türkiye,T,Total,2017,22.79
+275,792,Türkiye,T,Total,2018,26.33
+276,792,Türkiye,T,Total,2019,32.62
+277,792,Türkiye,T,Total,2020,39.74
+278,792,Türkiye,T,Total,2021,49.85
+279,470,Malta,T,Total,2010,14.3
+280,470,Malta,T,Total,2014,17.89
+281,470,Malta,T,Total,2018,20
+282,233,Estonia,T,Total,2010,9.74
+283,233,Estonia,T,Total,2014,10.6
+284,233,Estonia,T,Total,2018,12
+285,724,Spain,T,Total,2010,23.34
+286,724,Spain,T,Total,2012,32
+287,724,Spain,T,Total,2013,31
+288,724,Spain,T,Total,2014,31
+289,724,Spain,T,Total,2015,31
+290,724,Spain,T,Total,2016,30
+291,724,Spain,T,Total,2017,31
+292,724,Spain,T,Total,2018,33
+293,724,Spain,T,Total,2019,34
+294,724,Spain,T,Total,2020,35
+295,752,Sweden,T,Total,2010,29.66
+296,752,Sweden,T,Total,2014,315.52
+297,752,Sweden,T,Total,2015,311
+298,752,Sweden,T,Total,2016,318.6
+299,752,Sweden,T,Total,2017,325.6
+300,752,Sweden,T,Total,2018,340.7
+301,752,Sweden,T,Total,2019,342.4
+302,752,Sweden,T,Total,2020,349.4
+303,376,Israel,T,Total,2014,83
+304,376,Israel,T,Total,2015,90.1
+305,376,Israel,T,Total,2016,88
+306,376,Israel,T,Total,2018,96.3
+307,688,Serbia,T,Total,2014,335.24
+308,688,Serbia,T,Total,2015,326.9
+309,688,Serbia,T,Total,2016,346.7
+310,688,Serbia,T,Total,2017,356.9
+311,688,Serbia,T,Total,2018,376.52
+312,688,Serbia,T,Total,2019,429.03
+313,688,Serbia,T,Total,2020,441.72
+314,688,Serbia,T,Total,2021,465.07
+315,352,Iceland,T,Total,2014,5220
+316,352,Iceland,T,Total,2015,5800
+317,352,Iceland,T,Total,2016,6260
+318,352,Iceland,T,Total,2017,6700
+319,352,Iceland,T,Total,2021,7560
+320,070,Bosnia and Herzegovina,T,Total,2021,10.11
+321,276,Germany,T,Total,2010,35.83
+322,276,Germany,T,Total,2014,43.46
+323,276,Germany,T,Total,2018,46.73
+324,100,Bulgaria,T,Total,2010,4.81
+325,100,Bulgaria,T,Total,2014,11.06
+326,100,Bulgaria,T,Total,2018,15
+327,380,Italy,T,Total,2010,36.58
+328,380,Italy,T,Total,2014,41.02
+329,380,Italy,T,Total,2018,43
+330,498,Republic of Moldova,T,Total,2009,25.91
+331,498,Republic of Moldova,T,Total,2010,30.46
+332,498,Republic of Moldova,T,Total,2011,32.02
+333,498,Republic of Moldova,T,Total,2012,34.12
+334,498,Republic of Moldova,T,Total,2013,33.92
+335,498,Republic of Moldova,T,Total,2014,37.43
+336,498,Republic of Moldova,T,Total,2015,23.51
+337,498,Republic of Moldova,T,Total,2016,24.73
+338,498,Republic of Moldova,T,Total,2017,24.94
+339,498,Republic of Moldova,T,Total,2018,27.97
+340,498,Republic of Moldova,T,Total,2019,35.81
+341,498,Republic of Moldova,T,Total,2020,41.66
+342,498,Republic of Moldova,T,Total,2021,43.33
+343,208,Denmark,T,Total,2010,42.54
+344,208,Denmark,T,Total,2014,351.02
+345,208,Denmark,T,Total,2018,379
+346,826,United Kingdom,T,Total,2014,25.85
+347,826,United Kingdom,T,Total,2015,24.61
+348,826,United Kingdom,T,Total,2016,25.04
+349,826,United Kingdom,T,Total,2017,26.01
+350,826,United Kingdom,T,Total,2018,26.65
+351,826,United Kingdom,T,Total,2019,27.13
+352,756,Switzerland,T,Total,2009,57.41
+353,756,Switzerland,T,Total,2010,57.48
+354,756,Switzerland,T,Total,2011,57.03
+355,756,Switzerland,T,Total,2012,59.65
+356,756,Switzerland,T,Total,2013,58.95
+357,756,Switzerland,T,Total,2014,58.37
+358,756,Switzerland,T,Total,2015,70.48
+359,756,Switzerland,T,Total,2016,56.13
+360,756,Switzerland,T,Total,2017,60.88
+361,756,Switzerland,T,Total,2018,62.02
+362,756,Switzerland,T,Total,2019,60.28
+363,756,Switzerland,T,Total,2020,67.11
+364,756,Switzerland,T,Total,2021,75.89
+365,703,Slovakia,T,Total,2010,10.49
+366,703,Slovakia,T,Total,2014,10.91
+367,703,Slovakia,T,Total,2015,13.09
+368,703,Slovakia,T,Total,2019,15.18
+369,703,Slovakia,T,Total,2020,16.06
+370,703,Slovakia,T,Total,2021,16.19
+371,840,United States,T,Total,2009,36.31
+372,840,United States,T,Total,2010,37.79
+373,840,United States,T,Total,2011,36.05
+374,840,United States,T,Total,2012,36.44
+375,840,United States,T,Total,2013,36.76
+376,840,United States,T,Total,2014,37.79
+377,840,United States,T,Total,2015,38.4
+378,840,United States,T,Total,2016,38.55
+379,840,United States,T,Total,2017,42.01
+380,840,United States,T,Total,2018,40.56
+381,840,United States,T,Total,2019,41.91
+382,840,United States,T,Total,2020,47.19
+383,840,United States,T,Total,2021,46.61
+384,840,United States,T,Total,2022,48.99
+385,428,Latvia,T,Total,2010,6.5
+386,428,Latvia,T,Total,2014,7.92
+387,428,Latvia,T,Total,2018,11
+388,040,Austria,T,Total,2010,33.41
+389,040,Austria,T,Total,2014,34.6
+390,040,Austria,T,Total,2018,36.58
+391,191,Croatia,T,Total,2018,92
+392,442,Luxembourg,T,Total,2010,49.83
+393,442,Luxembourg,T,Total,2014,46.84
+394,442,Luxembourg,T,Total,2018,50
+395,643,Russian Federation,T,Total,2015,345
+396,643,Russian Federation,T,Total,2017,425
+397,860,Uzbekistan,T,Total,2021,20098
+398,578,Norway,T,Total,2010,43.03
+399,578,Norway,T,Total,2014,397.28
+400,578,Norway,T,Total,2018,440
+401,804,Ukraine,T,Total,2012,28.22
+402,804,Ukraine,T,Total,2016,49.46
+403,807,North Macedonia,T,Total,2014,329.64
+404,616,Poland,T,Total,2010,10.27
+405,616,Poland,T,Total,2014,46.16
+406,051,Armenia,T,Total,2013,716.22
+407,051,Armenia,T,Total,2014,700.67
+408,051,Armenia,T,Total,2015,817.42
+409,051,Armenia,T,Total,2016,882.85
+410,051,Armenia,T,Total,2017,899.67
+411,051,Armenia,T,Total,2018,870.85
+412,051,Armenia,T,Total,2019,1193.15
+413,051,Armenia,T,Total,2020,1312.7
+414,056,Belgium,T,Total,2010,37.32
+415,056,Belgium,T,Total,2014,38.63
+416,056,Belgium,T,Total,2015,37.05
+417,056,Belgium,T,Total,2016,37.05
+418,056,Belgium,T,Total,2017,37.8
+419,056,Belgium,T,Total,2018,38.75
+420,300,Greece,T,Total,2010,19.13
+421,300,Greece,T,Total,2014,18.8
+422,300,Greece,T,Total,2015,7.89
+423,300,Greece,T,Total,2016,8.78
+424,300,Greece,T,Total,2017,9.35
+425,300,Greece,T,Total,2018,8.75
+426,300,Greece,T,Total,2019,8.66
+427,300,Greece,T,Total,2020,8.7
+428,196,Cyprus,T,Total,2010,31.16
+429,196,Cyprus,T,Total,2014,26.82
+430,196,Cyprus,T,Total,2018,32
+431,372,Ireland,T,Total,2010,30.5
+432,372,Ireland,T,Total,2014,31.52
+433,372,Ireland,T,Total,2018,34
+434,499,Montenegro,T,Total,2014,8.68
+435,203,Czechia,T,Total,2012,339.51
+436,203,Czechia,T,Total,2013,333.52
+437,203,Czechia,T,Total,2014,343.37
+438,246,Finland,G,Gender gap,2020,8.2
+439,246,Finland,G,Gender gap,2021,11.26
+440,348,Hungary,G,Gender gap,2010,3.28
+441,348,Hungary,G,Gender gap,2014,1196.38
+442,348,Hungary,G,Gender gap,2018,1021
+443,348,Hungary,G,Gender gap,2019,1131.38
+444,348,Hungary,G,Gender gap,2020,1334
+445,348,Hungary,G,Gender gap,2021,1509
+446,246,Finland,G,Gender gap,2010,9.41
+447,246,Finland,G,Gender gap,2013,7.07
+448,246,Finland,G,Gender gap,2014,7.54
+449,246,Finland,G,Gender gap,2016,7.25
+450,246,Finland,G,Gender gap,2017,7.2
+451,440,Lithuania,G,Gender gap,2010,1.33
+452,440,Lithuania,G,Gender gap,2014,1.44
+453,440,Lithuania,G,Gender gap,2018,0.83
+454,191,Croatia,G,Gender gap,2018,31
+455,442,Luxembourg,G,Gender gap,2010,12.99
+456,442,Luxembourg,G,Gender gap,2014,10.92
+457,442,Luxembourg,G,Gender gap,2018,11
+458,380,Italy,G,Gender gap,2010,9.44
+459,380,Italy,G,Gender gap,2014,14.84
+460,380,Italy,G,Gender gap,2018,15
+461,208,Denmark,G,Gender gap,2010,10.14
+462,208,Denmark,G,Gender gap,2014,82.21
+463,208,Denmark,G,Gender gap,2018,84
+464,826,United Kingdom,G,Gender gap,2014,7.12
+465,826,United Kingdom,G,Gender gap,2015,6.3
+466,826,United Kingdom,G,Gender gap,2016,5.93
+467,826,United Kingdom,G,Gender gap,2017,5.95
+468,826,United Kingdom,G,Gender gap,2018,5.71
+469,826,United Kingdom,G,Gender gap,2019,6.26
+470,703,Slovakia,G,Gender gap,2010,3.26
+471,703,Slovakia,G,Gender gap,2014,3.47
+472,703,Slovakia,G,Gender gap,2015,4.22
+473,703,Slovakia,G,Gender gap,2019,4.35
+474,703,Slovakia,G,Gender gap,2020,4.22
+475,703,Slovakia,G,Gender gap,2021,3.99
+476,840,United States,G,Gender gap,2009,7.12
+477,840,United States,G,Gender gap,2010,6.25
+478,840,United States,G,Gender gap,2011,7.53
+479,840,United States,G,Gender gap,2012,7.37
+480,840,United States,G,Gender gap,2013,7.54
+481,840,United States,G,Gender gap,2014,6.21
+482,840,United States,G,Gender gap,2015,5.51
+483,840,United States,G,Gender gap,2016,7.38
+484,840,United States,G,Gender gap,2017,8.26
+485,840,United States,G,Gender gap,2018,6.81
+486,840,United States,G,Gender gap,2019,6.25
+487,840,United States,G,Gender gap,2020,8.06
+488,840,United States,G,Gender gap,2021,10.11
+489,840,United States,G,Gender gap,2022,3.82
+490,376,Israel,G,Gender gap,2014,12
+491,376,Israel,G,Gender gap,2015,16
+492,376,Israel,G,Gender gap,2016,22
+493,376,Israel,G,Gender gap,2018,13.6
+494,498,Republic of Moldova,G,Gender gap,2009,4.86
+495,498,Republic of Moldova,G,Gender gap,2010,5.01
+496,498,Republic of Moldova,G,Gender gap,2011,5.2
+497,498,Republic of Moldova,G,Gender gap,2012,6.65
+498,498,Republic of Moldova,G,Gender gap,2013,3.57
+499,498,Republic of Moldova,G,Gender gap,2014,4.99
+500,498,Republic of Moldova,G,Gender gap,2015,4.54
+501,498,Republic of Moldova,G,Gender gap,2016,1.67
+502,498,Republic of Moldova,G,Gender gap,2017,2.46
+503,498,Republic of Moldova,G,Gender gap,2018,2.58
+504,498,Republic of Moldova,G,Gender gap,2019,3.32
+505,498,Republic of Moldova,G,Gender gap,2020,0.7
+506,498,Republic of Moldova,G,Gender gap,2021,3.53
+507,688,Serbia,G,Gender gap,2014,48.61
+508,688,Serbia,G,Gender gap,2015,29.46
+509,688,Serbia,G,Gender gap,2016,36.45
+510,688,Serbia,G,Gender gap,2017,15.15
+511,688,Serbia,G,Gender gap,2018,41.69
+512,688,Serbia,G,Gender gap,2019,56.63
+513,688,Serbia,G,Gender gap,2020,-27.23
+514,688,Serbia,G,Gender gap,2021,-43.59
+515,352,Iceland,G,Gender gap,2014,1300
+516,352,Iceland,G,Gender gap,2015,1570
+517,352,Iceland,G,Gender gap,2016,1700
+518,352,Iceland,G,Gender gap,2017,1720
+519,352,Iceland,G,Gender gap,2021,1350
+520,070,Bosnia and Herzegovina,G,Gender gap,2011,1.25
+521,070,Bosnia and Herzegovina,G,Gender gap,2012,-0.32
+522,070,Bosnia and Herzegovina,G,Gender gap,2013,1.19
+523,070,Bosnia and Herzegovina,G,Gender gap,2014,-0.01
+524,070,Bosnia and Herzegovina,G,Gender gap,2015,1.1
+525,070,Bosnia and Herzegovina,G,Gender gap,2016,0.7
+526,070,Bosnia and Herzegovina,G,Gender gap,2020,0.66
+527,070,Bosnia and Herzegovina,G,Gender gap,2021,0.97
+528,112,Belarus,G,Gender gap,2019,2.74
+529,008,Albania,G,Gender gap,2012,1353.4
+530,008,Albania,G,Gender gap,2018,-19
+531,792,Türkiye,G,Gender gap,2012,-1.6
+532,792,Türkiye,G,Gender gap,2013,-0.89
+533,792,Türkiye,G,Gender gap,2014,-0.89
+534,792,Türkiye,G,Gender gap,2015,-2.14
+535,792,Türkiye,G,Gender gap,2016,-1.88
+536,792,Türkiye,G,Gender gap,2017,-1.81
+537,792,Türkiye,G,Gender gap,2018,-0.16
+538,792,Türkiye,G,Gender gap,2019,-2.98
+539,792,Türkiye,G,Gender gap,2020,-4.64
+540,792,Türkiye,G,Gender gap,2021,4.43
+541,470,Malta,G,Gender gap,2010,3.36
+542,470,Malta,G,Gender gap,2014,4.12
+543,470,Malta,G,Gender gap,2018,5
+544,233,Estonia,G,Gender gap,2010,2.82
+545,233,Estonia,G,Gender gap,2014,3.04
+546,233,Estonia,G,Gender gap,2018,3
+547,724,Spain,G,Gender gap,2010,5.11
+548,724,Spain,G,Gender gap,2012,5
+549,724,Spain,G,Gender gap,2013,6
+550,724,Spain,G,Gender gap,2014,6
+551,724,Spain,G,Gender gap,2015,6
+552,724,Spain,G,Gender gap,2016,6
+553,724,Spain,G,Gender gap,2017,7
+554,724,Spain,G,Gender gap,2018,7
+555,724,Spain,G,Gender gap,2019,6
+556,724,Spain,G,Gender gap,2020,6
+557,752,Sweden,G,Gender gap,2010,6.91
+558,752,Sweden,G,Gender gap,2014,54.89
+559,752,Sweden,G,Gender gap,2015,50.5
+560,752,Sweden,G,Gender gap,2016,47.7
+561,752,Sweden,G,Gender gap,2017,42.5
+562,752,Sweden,G,Gender gap,2018,52.9
+563,752,Sweden,G,Gender gap,2019,44.2
+564,752,Sweden,G,Gender gap,2020,42.5
+565,051,Armenia,G,Gender gap,2013,259.74
+566,051,Armenia,G,Gender gap,2014,210.39
+567,051,Armenia,G,Gender gap,2015,194.77
+568,051,Armenia,G,Gender gap,2016,69.33
+569,051,Armenia,G,Gender gap,2017,-46.2
+570,051,Armenia,G,Gender gap,2018,156.2
+571,051,Armenia,G,Gender gap,2019,84.77
+572,051,Armenia,G,Gender gap,2020,197.81
+573,056,Belgium,G,Gender gap,2010,7.79
+574,056,Belgium,G,Gender gap,2014,5.44
+575,056,Belgium,G,Gender gap,2015,4.84
+576,056,Belgium,G,Gender gap,2016,4.84
+577,056,Belgium,G,Gender gap,2017,4.95
+578,056,Belgium,G,Gender gap,2018,5.1
+579,643,Russian Federation,G,Gender gap,2015,114
+580,643,Russian Federation,G,Gender gap,2017,156
+581,860,Uzbekistan,G,Gender gap,2021,754.2
+582,578,Norway,G,Gender gap,2010,11.22
+583,578,Norway,G,Gender gap,2014,97.6
+584,578,Norway,G,Gender gap,2018,110
+585,804,Ukraine,G,Gender gap,2012,5.89
+586,804,Ukraine,G,Gender gap,2016,12.07
+587,807,North Macedonia,G,Gender gap,2014,40.62
+588,616,Poland,G,Gender gap,2010,3.25
+589,616,Poland,G,Gender gap,2014,14.58
+590,428,Latvia,G,Gender gap,2010,1.29
+591,428,Latvia,G,Gender gap,2014,1.54
+592,428,Latvia,G,Gender gap,2018,2
+593,040,Austria,G,Gender gap,2010,10.77
+594,040,Austria,G,Gender gap,2014,9.91
+595,040,Austria,G,Gender gap,2018,10.4
+596,276,Germany,G,Gender gap,2010,11.86
+597,276,Germany,G,Gender gap,2014,12.38
+598,276,Germany,G,Gender gap,2018,12.44
+599,100,Bulgaria,G,Gender gap,2010,0.69
+600,100,Bulgaria,G,Gender gap,2014,1.78
+601,100,Bulgaria,G,Gender gap,2018,3
+602,300,Greece,G,Gender gap,2010,5.05
+603,300,Greece,G,Gender gap,2014,3.9
+604,300,Greece,G,Gender gap,2015,0.43
+605,300,Greece,G,Gender gap,2016,0.13
+606,300,Greece,G,Gender gap,2017,-0.23
+607,300,Greece,G,Gender gap,2018,0.26
+608,300,Greece,G,Gender gap,2019,0.98
+609,300,Greece,G,Gender gap,2020,-1.25
+610,196,Cyprus,G,Gender gap,2010,1.93
+611,196,Cyprus,G,Gender gap,2014,4.46
+612,196,Cyprus,G,Gender gap,2018,4
+613,372,Ireland,G,Gender gap,2010,9.64
+614,499,Montenegro,G,Gender gap,2014,0.53
+615,372,Ireland,G,Gender gap,2014,5.39
+616,372,Ireland,G,Gender gap,2018,11
+617,705,Slovenia,G,Gender gap,2010,2.91
+618,705,Slovenia,G,Gender gap,2014,2.51
+619,705,Slovenia,G,Gender gap,2018,4
+620,203,Czechia,G,Gender gap,2012,112.57
+621,203,Czechia,G,Gender gap,2013,97.04
+622,203,Czechia,G,Gender gap,2014,100.7
+623,203,Czechia,G,Gender gap,2015,105.25
+624,203,Czechia,G,Gender gap,2016,104.6
+625,203,Czechia,G,Gender gap,2017,112.2
+626,203,Czechia,G,Gender gap,2018,114.6
+627,203,Czechia,G,Gender gap,2019,143.1
+628,203,Czechia,G,Gender gap,2020,138
+629,642,Romania,G,Gender gap,2010,0.07
+630,642,Romania,G,Gender gap,2014,1.51
+631,620,Portugal,G,Gender gap,2009,1.62
+632,620,Portugal,G,Gender gap,2010,0.76
+633,620,Portugal,G,Gender gap,2011,2.18
+634,620,Portugal,G,Gender gap,2012,2.62
+635,620,Portugal,G,Gender gap,2013,2.46
+636,620,Portugal,G,Gender gap,2014,5.61
+637,620,Portugal,G,Gender gap,2015,1.05
+638,620,Portugal,G,Gender gap,2016,1.47
+639,620,Portugal,G,Gender gap,2017,0.2
+640,620,Portugal,G,Gender gap,2018,1.57
+641,756,Switzerland,G,Gender gap,2009,9.25
+642,756,Switzerland,G,Gender gap,2010,18.22
+643,756,Switzerland,G,Gender gap,2011,17.67
+644,756,Switzerland,G,Gender gap,2012,12.04
+645,756,Switzerland,G,Gender gap,2013,12.41
+646,756,Switzerland,G,Gender gap,2014,18.17
+647,756,Switzerland,G,Gender gap,2015,33.07
+648,756,Switzerland,G,Gender gap,2016,7.86
+649,756,Switzerland,G,Gender gap,2017,15.89
+650,756,Switzerland,G,Gender gap,2018,16.91
+651,756,Switzerland,G,Gender gap,2019,14.59
+652,756,Switzerland,G,Gender gap,2020,13.76
+653,756,Switzerland,G,Gender gap,2021,12.78
+654,528,Netherlands,G,Gender gap,2010,7.9
+655,528,Netherlands,G,Gender gap,2014,8.06
+656,528,Netherlands,F,Female,2018,29
+657,250,France,F,Female,2011,17.27
+658,250,France,F,Female,2012,17.35
+659,250,France,F,Female,2013,19.08
+660,250,France,F,Female,2014,19.26
+661,250,France,F,Female,2015,18.86
+662,250,France,F,Female,2016,18.89
+663,250,France,F,Female,2017,18.92
+664,250,France,F,Female,2018,20.42
+665,250,France,F,Female,2019,20.07
+666,250,France,F,Female,2020,22.19
+667,246,Finland,M,Male,2020,43.54
+668,246,Finland,M,Male,2021,50.12
+669,348,Hungary,M,Male,2010,11.04
+670,348,Hungary,M,Male,2014,3552.53
+671,348,Hungary,M,Male,2018,3971
+672,348,Hungary,M,Male,2019,4591.94
+673,348,Hungary,M,Male,2020,5297
+674,348,Hungary,M,Male,2021,5992
+675,246,Finland,M,Male,2010,39.4
+676,246,Finland,M,Male,2013,39.74
+677,246,Finland,M,Male,2014,40.23
+678,246,Finland,M,Male,2016,40.99
+679,246,Finland,M,Male,2017,41.74
+680,440,Lithuania,M,Male,2010,6.52
+681,440,Lithuania,M,Male,2014,7.67
+682,440,Lithuania,M,Male,2018,8.67
+683,008,Albania,M,Male,2012,4923.97
+684,008,Albania,M,Male,2018,562
+685,792,Türkiye,M,Male,2012,13.47
+686,792,Türkiye,M,Male,2013,15.7
+687,792,Türkiye,M,Male,2014,17.65
+688,792,Türkiye,M,Male,2015,19.09
+689,792,Türkiye,M,Male,2016,20.88
+690,792,Türkiye,M,Male,2017,22.39
+691,792,Türkiye,M,Male,2018,26.29
+692,792,Türkiye,M,Male,2019,31.95
+693,792,Türkiye,M,Male,2020,38.66
+694,792,Türkiye,M,Male,2021,50.94
+695,470,Malta,M,Male,2010,15.21
+696,470,Malta,M,Male,2014,19.14
+697,470,Malta,M,Male,2018,22
+698,826,United Kingdom,M,Male,2014,28.39
+699,826,United Kingdom,M,Male,2015,26.84
+700,826,United Kingdom,M,Male,2016,27.16
+701,826,United Kingdom,M,Male,2017,28.17
+702,826,United Kingdom,M,Male,2018,28.74
+703,826,United Kingdom,M,Male,2019,29.46
+704,703,Slovakia,M,Male,2010,11.7
+705,703,Slovakia,M,Male,2014,12.24
+706,703,Slovakia,M,Male,2015,14.67
+707,703,Slovakia,M,Male,2019,16.83
+708,703,Slovakia,M,Male,2020,17.66
+709,703,Slovakia,M,Male,2021,17.73
+710,840,United States,M,Male,2009,39.34
+711,840,United States,M,Male,2010,40.47
+712,840,United States,M,Male,2011,39.3
+713,840,United States,M,Male,2012,39.62
+714,840,United States,M,Male,2013,40.02
+715,840,United States,M,Male,2014,40.48
+716,840,United States,M,Male,2015,40.77
+717,840,United States,M,Male,2016,41.75
+718,840,United States,M,Male,2017,45.65
+719,840,United States,M,Male,2018,43.6
+720,840,United States,M,Male,2019,44.69
+721,840,United States,M,Male,2020,50.78
+722,840,United States,M,Male,2021,51.26
+723,840,United States,M,Male,2022,50.69
+724,428,Latvia,M,Male,2010,7.14
+725,428,Latvia,M,Male,2014,8.73
+726,428,Latvia,M,Male,2018,12
+727,040,Austria,M,Male,2010,35.87
+728,040,Austria,M,Male,2014,36.86
+729,040,Austria,M,Male,2018,39.18
+730,276,Germany,M,Male,2010,39.5
+731,276,Germany,M,Male,2014,46.22
+732,276,Germany,M,Male,2018,49.71
+733,100,Bulgaria,M,Male,2010,5.1
+734,100,Bulgaria,M,Male,2014,11.83
+735,100,Bulgaria,M,Male,2018,16
+736,380,Italy,M,Male,2010,39.08
+737,380,Italy,M,Male,2014,44.28
+738,380,Italy,M,Male,2018,46
+739,208,Denmark,M,Male,2010,45.46
+740,208,Denmark,M,Male,2014,375.51
+741,208,Denmark,M,Male,2018,405
+742,233,Estonia,M,Male,2010,10.81
+743,233,Estonia,M,Male,2014,11.86
+744,233,Estonia,M,Male,2018,14
+745,724,Spain,M,Male,2010,25.02
+746,724,Spain,M,Male,2012,33
+747,724,Spain,M,Male,2013,33
+748,724,Spain,M,Male,2014,33
+749,724,Spain,M,Male,2015,33
+750,724,Spain,M,Male,2016,32
+751,724,Spain,M,Male,2017,33
+752,724,Spain,M,Male,2018,35
+753,724,Spain,M,Male,2019,36
+754,724,Spain,M,Male,2020,37
+755,752,Sweden,M,Male,2010,32.24
+756,752,Sweden,M,Male,2014,337.25
+757,752,Sweden,M,Male,2015,330.2
+758,752,Sweden,M,Male,2016,337.2
+759,752,Sweden,M,Male,2017,341.9
+760,752,Sweden,M,Male,2018,362.2
+761,752,Sweden,M,Male,2019,359.9
+762,752,Sweden,M,Male,2020,366.3
+763,376,Israel,M,Male,2014,86
+764,376,Israel,M,Male,2015,95.2
+765,376,Israel,M,Male,2016,95
+766,376,Israel,M,Male,2018,100.7
+767,498,Republic of Moldova,M,Male,2009,27.83
+768,498,Republic of Moldova,M,Male,2010,32.33
+769,498,Republic of Moldova,M,Male,2011,34.08
+770,498,Republic of Moldova,M,Male,2012,37.05
+771,498,Republic of Moldova,M,Male,2013,35.31
+772,498,Republic of Moldova,M,Male,2014,39.59
+773,498,Republic of Moldova,M,Male,2015,25.89
+774,498,Republic of Moldova,M,Male,2016,25.53
+775,498,Republic of Moldova,M,Male,2017,26.05
+776,498,Republic of Moldova,M,Male,2018,29.12
+777,498,Republic of Moldova,M,Male,2019,37.6
+778,498,Republic of Moldova,M,Male,2020,41.97
+779,498,Republic of Moldova,M,Male,2021,45.11
+780,688,Serbia,M,Male,2014,352.88
+781,688,Serbia,M,Male,2015,338.09
+782,688,Serbia,M,Male,2016,360.98
+783,688,Serbia,M,Male,2017,361.9
+784,688,Serbia,M,Male,2018,389.62
+785,688,Serbia,M,Male,2019,451.14
+786,688,Serbia,M,Male,2020,430.82
+787,688,Serbia,M,Male,2021,446.47
+788,352,Iceland,M,Male,2014,5720
+789,352,Iceland,M,Male,2015,6420
+790,352,Iceland,M,Male,2016,6910
+791,352,Iceland,M,Male,2017,7360
+792,352,Iceland,M,Male,2021,8150
+793,070,Bosnia and Herzegovina,M,Male,2011,7.12
+794,070,Bosnia and Herzegovina,M,Male,2012,6.75
+795,070,Bosnia and Herzegovina,M,Male,2013,7.77
+796,070,Bosnia and Herzegovina,M,Male,2014,7.32
+797,070,Bosnia and Herzegovina,M,Male,2015,8.68
+798,070,Bosnia and Herzegovina,M,Male,2016,7.64
+799,070,Bosnia and Herzegovina,M,Male,2020,11.1
+800,070,Bosnia and Herzegovina,M,Male,2021,10.36
+801,191,Croatia,M,Male,2018,106
+802,442,Luxembourg,M,Male,2010,52.07
+803,442,Luxembourg,M,Male,2014,49.51
+804,442,Luxembourg,M,Male,2018,52
+805,643,Russian Federation,M,Male,2015,399
+806,643,Russian Federation,M,Male,2017,500
+807,860,Uzbekistan,M,Male,2021,20370.2
+808,578,Norway,M,Male,2010,46.85
+809,578,Norway,M,Male,2014,432.17
+810,578,Norway,M,Male,2018,482
+811,804,Ukraine,M,Male,2012,31.13
+812,804,Ukraine,M,Male,2016,55.24
+813,807,North Macedonia,M,Male,2014,342.74
+814,616,Poland,M,Male,2010,11.67
+815,616,Poland,M,Male,2014,52.6
+816,051,Armenia,M,Male,2013,801.02
+817,051,Armenia,M,Male,2014,779.75
+818,051,Armenia,M,Male,2015,878.8
+819,051,Armenia,M,Male,2016,904.87
+820,051,Armenia,M,Male,2017,884.29
+821,051,Armenia,M,Male,2018,928.18
+822,051,Armenia,M,Male,2019,1222.98
+823,051,Armenia,M,Male,2020,1379.9
+824,056,Belgium,M,Male,2010,39.28
+825,056,Belgium,M,Male,2014,39.89
+826,056,Belgium,M,Male,2015,38.56
+827,056,Belgium,M,Male,2016,38.56
+828,056,Belgium,M,Male,2017,39.41
+829,056,Belgium,M,Male,2018,40.46
+830,112,Belarus,M,Male,2019,9.98
+831,300,Greece,M,Male,2010,20.82
+832,300,Greece,M,Male,2014,20.18
+833,300,Greece,M,Male,2015,8.01
+834,300,Greece,M,Male,2016,8.81
+835,300,Greece,M,Male,2017,9.27
+836,300,Greece,M,Male,2018,8.84
+837,300,Greece,M,Male,2019,8.97
+838,300,Greece,M,Male,2020,8.3
+839,196,Cyprus,M,Male,2010,31.55
+840,196,Cyprus,M,Male,2014,27.79
+841,196,Cyprus,M,Male,2018,33
+842,372,Ireland,M,Male,2010,34.54
+843,499,Montenegro,M,Male,2014,8.83
+844,372,Ireland,M,Male,2014,33.87
+845,372,Ireland,M,Male,2018,39
+846,705,Slovenia,M,Male,2010,21.53
+847,705,Slovenia,M,Male,2014,20.31
+848,705,Slovenia,M,Male,2018,22
+849,203,Czechia,M,Male,2012,373.51
+850,203,Czechia,M,Male,2013,362.31
+851,203,Czechia,M,Male,2014,373.55
+852,203,Czechia,M,Male,2015,384.79
+853,203,Czechia,M,Male,2016,387.2
+854,203,Czechia,M,Male,2017,414.6
+855,203,Czechia,M,Male,2018,434.7
+856,203,Czechia,M,Male,2019,504
+857,203,Czechia,M,Male,2020,525.9
+858,642,Romania,M,Male,2010,6.89
+859,642,Romania,M,Male,2014,30.26
+860,620,Portugal,M,Male,2009,9.54
+861,620,Portugal,M,Male,2010,9.8
+862,620,Portugal,M,Male,2011,9.37
+863,620,Portugal,M,Male,2012,9.24
+864,620,Portugal,M,Male,2013,9.18
+865,620,Portugal,M,Male,2014,21.63
+866,620,Portugal,M,Male,2015,8.52
+867,620,Portugal,M,Male,2016,8.3
+868,620,Portugal,M,Male,2017,6.31
+869,620,Portugal,M,Male,2018,9.19
+870,756,Switzerland,M,Male,2009,60.09
+871,756,Switzerland,M,Male,2010,63.09
+872,756,Switzerland,M,Male,2011,62.6
+873,756,Switzerland,M,Male,2012,63.41
+874,203,Czechia,T,Total,2015,352.47
+875,203,Czechia,T,Total,2016,355.6
+876,203,Czechia,T,Total,2017,380.3
+877,203,Czechia,T,Total,2018,399.2
+878,203,Czechia,T,Total,2019,456.7
+879,203,Czechia,T,Total,2020,480.1
+880,642,Romania,T,Total,2010,6.86
+881,642,Romania,T,Total,2014,29.63
+882,620,Portugal,T,Total,2009,8.87
+883,620,Portugal,T,Total,2010,9.5
+884,620,Portugal,T,Total,2011,8.61
+885,620,Portugal,T,Total,2012,8.26
+886,620,Portugal,T,Total,2013,8.24
+887,620,Portugal,T,Total,2014,19.77
+888,620,Portugal,T,Total,2015,8.14
+889,620,Portugal,T,Total,2016,7.72
+890,620,Portugal,T,Total,2017,6.28
+891,620,Portugal,T,Total,2018,8.55
+892,528,Netherlands,T,Total,2010,28.7
+893,528,Netherlands,T,Total,2014,31.18
+894,528,Netherlands,T,Total,2018,34
+895,250,France,T,Total,2011,18.29
+896,250,France,T,Total,2012,18.87
+897,250,France,T,Total,2013,20.81
+898,250,France,T,Total,2014,21.1
+899,250,France,T,Total,2015,20.52
+900,250,France,T,Total,2016,20.51
+901,250,France,T,Total,2017,21.22
+902,250,France,T,Total,2018,21.78
+903,250,France,T,Total,2019,22.06
+904,250,France,T,Total,2020,23.32
+905,528,Netherlands,G,Gender gap,2018,7
+906,250,France,G,Gender gap,2011,1.73
+907,250,France,G,Gender gap,2012,2.54
+908,250,France,G,Gender gap,2013,2.76
+909,250,France,G,Gender gap,2014,2.76
+910,250,France,G,Gender gap,2015,2.5
+911,250,France,G,Gender gap,2016,2.45
+912,250,France,G,Gender gap,2017,3.58
+913,250,France,G,Gender gap,2018,2.1
+914,250,France,G,Gender gap,2019,3.17
+915,250,France,G,Gender gap,2020,1.8
